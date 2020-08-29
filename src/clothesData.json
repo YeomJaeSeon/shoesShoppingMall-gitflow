@@ -1,0 +1,39 @@
+{
+  "brands": [
+    {
+      "name": "nike",
+      "clothes": [
+        { "id": 0, "product": "나이키 에어조던", "price": 3000 },
+        { "id": 1, "product": "나이키 슬리퍼", "price": 5000 }
+      ]
+    },
+    {
+      "name": "adidas",
+      "clothes": [
+        { "id": 2, "product": "아디다스 m990", "price": 2000 },
+        { "id": 3, "product": "아디다스 하이부츠", "price": 1000 }
+      ]
+    },
+    {
+      "name": "newbalance",
+      "clothes": [
+        { "id": 4, "product": "뉴발란스 m994", "price": 6000 },
+        { "id": 5, "product": "뉴발란스 990 v4", "price": 7000 }
+      ]
+    },
+    {
+      "name": "fuma",
+      "clothes": [
+        { "id": 6, "product": "퓨마 슬리퍼", "price": 5000 },
+        { "id": 7, "product": "퓨마 샌들", "price": 2000 }
+      ]
+    },
+    {
+      "name": "bose",
+      "clothes": [
+        { "id": 8, "product": "보세 슬리퍼", "price": 1000 },
+        { "id": 9, "product": "보세 구두", "price": 2000 }
+      ]
+    }
+  ]
+}
