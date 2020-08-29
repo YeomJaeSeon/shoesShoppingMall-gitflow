@@ -4,6 +4,7 @@ export default function Footer() {
   return (
     <>
       <div>dev : Yeom</div>
+      <div>email : a89541457@gmail.com</div>
     </>
   );
 }
